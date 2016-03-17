@@ -24,4 +24,3 @@ button.
 This code has been a fork of the https://github.com/atom/atom-light-ui project.
 
 @2016 - Jean-Louis GUENEGO
-qqqqqqqqqqqqqqqqqqqqqqqqqqbbbb
