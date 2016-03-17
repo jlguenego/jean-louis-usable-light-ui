@@ -1,9 +1,18 @@
-# Atom Light UI theme
+# Jean-Louis Usable Light UI theme for Atom
 
-A light UI theme for Atom.
+A light UI theme for Atom, which tries to be more usable.
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_UI Themes_ drop-down menu.
+To install this Atom package, just do:
+```
+apm install jean-louis-usable-light-ui
+```
 
-![](https://f.cloud.github.com/assets/671378/2265022/bb148a20-9e7a-11e3-81c8-bf5965d48183.png)
+Or open Atom, and go the menu File -> Settings -> Install and then
+look for the theme `jean-louis-usable-light-ui` and click on the Install
+button.
+
+## Note
+
+This code has been a fork of the https://github.com/atom/atom-light-ui project.
+
+@2016 - Jean-Louis GUENEGO
