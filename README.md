@@ -2,6 +2,14 @@
 
 A light UI theme for Atom, which tries to be more usable.
 
+## Why ?
+For old people like me with bad eyes...
+
+- The contrast is maximized by using a black color instead of gray nuances.
+- The font size is bigger
+
+## Installation
+
 To install this Atom package, just do:
 ```
 apm install jean-louis-usable-light-ui
